@@ -3,3 +3,22 @@ body {
   -moz-box-sizing: border-box;
   -webkit-box-sizing: border-box;
 }
+
+.playing {
+  transform: scale(1.1);
+  border-color: #ffc600;
+  box-shadow: 0 0 10px #ffc600;
+}
+
+.keys {
+  text-align: center;
+}
+
+.key {
+  border: 1px solid black;
+  display: inline-block;
+  width: 25px;
+  text-align: center;
+  border-radius: 5px;
+  transition: all .08s;
+}
