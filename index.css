@@ -8,6 +8,10 @@ body {
   -webkit-box-sizing: border-box;
   height: 100%;
   margin: 0;
+  background-image: url("images/background.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
 }
 
 .playing {
@@ -38,6 +42,7 @@ body {
 
 .keyboard {
   font-size: 2em;
+  color: whitesmoke;
 }
 .sound {
   color: #ffc600;
