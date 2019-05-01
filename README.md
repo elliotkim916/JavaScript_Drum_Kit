@@ -6,7 +6,7 @@ Make drum sounds with your computer's keyboard by pressing the keys A, S, D, F, 
 
 * Clone this github repository and open the index.html file to view the application on your browser
 * Or click on Live Demo to demo the application - [Live Demo](https://elliotkim916.github.io/JavaScript_Drum_Kit/)
-Then begin pressing the keys on your keyboard to play drums!
+* Then begin pressing the keys on your keyboard to play drums!
 
 ## **Technologies Used**
 * HTML
